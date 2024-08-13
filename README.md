@@ -161,4 +161,11 @@ Clone your repo:
     git clone git@github.com:username/repository.git 
 
 
+# Contact 
+
+Contact for questions:
+
+Ioannis Dasoulas - john-das@hotmail.com
+
+
 
